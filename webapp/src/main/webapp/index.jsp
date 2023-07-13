@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Bhuvana's DevOps Academy, LS, Nova Scotia,Canada-B4C 0B6</h1>
+    <h1>New user Register for Bhuvana's DevOps Academy, LowerSackville, Nova Scotia,Canada-B4C 0B6</h1>
     <p>Please fill in this form to create an account or Sign Up.</p>
     <hr>
      
@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter Mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="Mobile"><b>Enter Mobile</b></label>
+    <input type="text" placeholder="Enter Moible number" name="Mobile" id="Mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
