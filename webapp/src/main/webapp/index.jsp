@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Registration for Bhuvana's DevOps Academy, LowerSackville, Nova Scotia,Canada-B4C 0B6</h1>
+    <h1>New user Registration for Bhuvana's DevOps Academy, Lower Sackville, Nova Scotia,Canada-B4C 0B6</h1>
     <p>Please fill in this form to create an account or Sign Up.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning !!!</h1>
 
   
 </form>
