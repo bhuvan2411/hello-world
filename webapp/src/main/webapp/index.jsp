@@ -31,8 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning !!!</h1>
-   <p>Contact us: +1 23456789</p>
+   <h1> Thank you, Happy Learning !!!</h1>
+   <p>Contact us: +1 234 56789</p>
    
 
   
